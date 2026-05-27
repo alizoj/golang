@@ -1,0 +1,8 @@
+# Binaries and build output
+/pulse
+/pulse.exe
+*.exe
+
+# Test artifacts
+*.out
+coverage.*
